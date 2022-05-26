@@ -5,7 +5,7 @@
 I'm a self-taught developer, I enjoy learning new technologies and facing challenges every day. My work philosophy focuses on the needs of the user and their experience browsing through a website.
 
 
-— 🌱 I'm currently learning ReactJS.
+— 🌱 I'm currently learning ReactJS and TypeScript.
 
 ## Lenguages and tools
 I have experience with JavaScript, Sass, Tailwind CSS, Figma, AdobeXD and additionally Laravel and phpMyAdmin.
