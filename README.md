@@ -15,5 +15,5 @@ You can find me in the following platforms:
 - ✍️ Blog comming soon...
 - 💼 Find me on [LinkedIn](https://www.linkedin.com/in/jorgesoriax/)
 - 🎨 Follow me on [Dribbble](https://dribbble.com/jorgesoriax)
-- ⚡ Write me to jorge_soriax@outlook.com
+- ⚡ Write me to jorge_soriaw@outlook.com
 - 🔥 See my latest projects in my [Portfolio](https://portafolio22.vercel.app/)
